@@ -1,0 +1,37 @@
+nav #logo span {
+    font-family: 'Henny Penny', cursive;
+    font-size: 3em;
+}
+
+nav #logo small {
+    position: relative;
+    top: -15px;
+    left: 80px;
+}
+
+nav #logo,
+nav .nav-link:link,
+nav .fa-lock {
+    color: #ffebcd;
+    cursor: pointer;
+}
+
+nav .nav-link:hover,
+nav .nav-link.active,
+nav .nav-link:visited,
+nav .fa-lock:hover {
+    color: #dfa957;
+}
+
+nav .btn-primary {
+    border: 1px solid #ffebcd;
+    background-color: #ffebcd;
+    color: #544329;
+    font-weight: 700;
+}
+
+nav .btn-primary:hover {
+    border: 1px solid #d4a662;
+    background-color: #d4a662;
+    color: #544329;
+}

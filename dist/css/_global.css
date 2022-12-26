@@ -1,0 +1,20 @@
+body {
+    background: #f4e9d8 top/100% no-repeat url('../img/wave-haikei.svg');
+    font-family: 'Poppins', sans-serif;
+}
+
+body > header {
+    margin-bottom: 4rem;
+}
+
+.henny-penny {
+    font-family: 'Henny Penny', cursive;
+}
+
+body > footer span {
+    font-size: 11px;
+}
+
+body > footer .fa-copyright {
+    color: #544329;
+}
