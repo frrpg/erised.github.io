@@ -18,3 +18,7 @@ body > footer span {
 body > footer .fa-copyright {
     color: #544329;
 }
+
+body .page-construction {
+    font-size: 2em;
+}

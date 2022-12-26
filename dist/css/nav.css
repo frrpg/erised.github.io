@@ -10,15 +10,13 @@ nav #logo small {
 }
 
 nav #logo,
-nav .nav-link:link,
-nav .fa-lock {
+nav .nav-link {
     color: #ffebcd;
     cursor: pointer;
 }
 
 nav .nav-link:hover,
 nav .nav-link.active,
-nav .nav-link:visited,
 nav .fa-lock:hover {
     color: #dfa957;
 }
